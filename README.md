@@ -24,3 +24,9 @@
 </details>
 
 ### イメージのサイズ指定
+
+## VSCode設定
+
+### Lint
+### prettier
+### GitHub Copilot
