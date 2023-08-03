@@ -1,5 +1,5 @@
 # develop-template
-リポジトリのテンプレート
+小規模チーム開発向け、リポジトリのテンプレート・Tips等
 
 - Issueテンプレート、PRテンプレート
 - Issueのラベル
@@ -30,3 +30,15 @@
 ### Lint
 ### prettier
 ### GitHub Copilot
+
+## Tools
+### UML図
+- draw.io(GoogleDriveで共同編集・共有、書き出してGitで管理)
+- PlantUML
+- mermaid
+### Googleカレンダー
+### GoogleDrive
+### Slack
+- meet
+- Googleカレンダー
+- GitHub
