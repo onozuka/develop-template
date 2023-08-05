@@ -17,6 +17,18 @@
 ## コメントTips
 
 ### 折りたたみ
+```
+<details>
+<summary>タイトル</summary>
+<pre>
+<code>
+内容
+内容
+内容
+</code>
+</pre>
+</details>
+```
 <details>
 <summary>タイトル</summary>
 <pre>
